@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @lydia-debug
-- 👀 I’m interested in learning to code and find my place in the tech industry.
-- 🌱 I’m currently learning python3 which has been such an awesome experience. I've learned to excersise my problem solving skills and improve my memorization skills.
-- 💞️ I’m looking to collaborate on projects that will inspire me, make me feel poductive, and help imrove someone's day in the process.
+- 👋 Hi, I’m @lydia-debug!
+- I'm a sophomore in college. I major in Computer Science.
+- I'm looking forward to collaborating on projects that will inspire me, make me feel poductive, and help people along the way.
 - 📫 How to reach me: email >>lydiabarragan03@gmail.com
 
 <!---
