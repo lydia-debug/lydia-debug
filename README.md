@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lydia-debug!
 - I'm a sophomore in college. I major in Computer Science.
-- I'm looking forward to collaborating on projects that will inspire me, make me feel poductive, and help people along the way.
-- 📫 How to reach me: email >>lydiabarragan03@gmail.com
+- I'm looking forward to collaborating on projects that will inspire me, keep me poductive, and help impact people along the way.
+
 
 <!---
 lydia-debug/lydia-debug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
